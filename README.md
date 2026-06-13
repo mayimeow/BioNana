@@ -12,7 +12,7 @@ An IoT-based automated extraction system designed to convert agricultural waste 
 ## 🛠️ Tech Stack
 * **Mobile Dashboard:** Flutter / Dart
 * **Hardware Firmware:** C++ (ESP32 Microcontroller)
-* **Backend:** Firebase & Supabase 
+* **Backend:** Firebase 
 * **Database:** SQLite (Local) & Cloud Firestore
 
 ## 🚀 How to Run the Project

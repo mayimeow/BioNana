@@ -34,6 +34,7 @@ cd bionana
 \`\`\`bash
 flutter run
 \`\`\`
+
 *(Note: Ensure you add your own `google-services.json` for Firebase authentication to work).*
 
 

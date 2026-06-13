@@ -19,16 +19,19 @@ An IoT-based automated extraction system designed to convert agricultural waste 
 
 This repository contains both the mobile application and the hardware firmware. 
 
-### Part 1: Running the Mobile App (Flutter)
+### Running the Mobile App (Flutter)
 **1. Clone the repository**
 \`\`\`bash
 git clone https://github.com/mayimeow/BioNana.git
 cd bionana
 \`\`\`
+
 **2. Install dependencies**
 \`\`\`bash
+
 flutter pub get
 \`\`\`
+
 **3. Run the app**
 \`\`\`bash
 flutter run

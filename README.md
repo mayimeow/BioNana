@@ -1,11 +1,11 @@
 # BioNana 🍌💧
 
-An IoT-based automated extraction system designed to convert agricultural waste (banana pseudostems) into nutrient-rich liquid organic fertilizer. BioNana bridges the gap between hardware engineering and software management, featuring a physical extraction machine controlled by an ESP32 microcontroller, fully synchronized with a modern mobile dashboard.
+An IoT-based automated extraction system designed to convert agricultural waste (banana pseudostems) into nutrient-rich liquid organic fertilizer. BioNana bridges the gap between hardware engineering and software management, featuring a physical extraction machine controlled by an ESP32 microcontroller, fully synchronized with a modern mobile app.
 
 ## ✨ Key Features
 * **Automated Extraction Cycle:** Hardware-driven logic that manages the processing and extraction of liquid fertilizer.
 * **Smart Sensor Integration:** Utilizes ultrasonic and capacitive liquid sensors for fail-safe tank volume monitoring.
-* **Mobile Synchronization:** Real-time monitoring and control of the physical machine via a Flutter-based mobile dashboard.
+* **Mobile Synchronization:** Real-time monitoring and control of the physical machine via a Flutter-based mobile app.
 * **Developer Controls:** Custom firmware bypasses (like "Force Start") built-in for rapid testing and debugging.
 * **Cloud Database:** Hybrid local and cloud storage implementation for extreme reliability.
 
